@@ -1,4 +1,5 @@
 <?php
+//1st edit
 function checkInput($data) {
   $data = trim($data);
   $data = stripslashes($data);
