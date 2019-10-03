@@ -1,6 +1,5 @@
 <?php
 //Models_edit something
-//1111101110010
 function checkInput($data) {
   $data = trim($data);
   $data = stripslashes($data);
